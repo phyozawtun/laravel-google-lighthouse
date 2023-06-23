@@ -11,7 +11,7 @@ This package provides a wrapper for Google Lighthouse to audit the quality of we
 You can install the package via Composer:
 
 ``` bash
-composer require logiek/laravel-google-lighthouse
+composer require phyozawtun/laravel-google-lighthouse
 ```
 
 The package will automatically register itself. Optionally you can publish the config file with:
